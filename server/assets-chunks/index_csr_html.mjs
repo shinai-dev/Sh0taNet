@@ -1,0 +1,14 @@
+export default `<!doctype html>
+<html lang="en" data-beasties-container="">
+<head>
+  <meta charset="utf-8">
+  <title>FrontendSh0tanet</title>
+  <base href="C:/Program Files/Git/Sh0taNet/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+<style>:root{--color-bg-primary:#0a0a0a;--color-bg-secondary:#141414;--color-bg-tertiary:#1a1a1a;--color-border:#2a2a2a;--color-text-primary:#e0e0e0;--color-text-secondary:#c0c0c0;--color-accent:#404040;--color-accent-light:#606060}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Segoe UI,Tahoma,Geneva,Verdana,sans-serif;background:linear-gradient(135deg,var(--color-bg-primary) 0%,var(--color-bg-secondary) 25%,var(--color-bg-tertiary) 50%,var(--color-bg-secondary) 75%,var(--color-bg-primary) 100%);background-attachment:fixed;color:var(--color-text-primary);line-height:1.6;min-height:100vh;overflow-x:hidden}body:before{content:"";position:fixed;top:0;left:0;width:100%;height:100%;background-image:radial-gradient(circle at 25% 25%,rgba(255,255,255,.02) 1px,transparent 1px),radial-gradient(circle at 75% 75%,rgba(255,255,255,.01) 1px,transparent 1px);background-size:50px 50px;pointer-events:none;z-index:-1}@media (max-width: 768px){body{background:var(--color-bg-primary)}body:before{background-size:30px 30px}}@media (prefers-contrast: high){body{background:#000}}</style><link rel="stylesheet" href="styles-2KTZDTKC.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles-2KTZDTKC.css"></noscript></head>
+<body ngcm="">
+  <app-root></app-root>
+<link rel="modulepreload" href="chunk-QCRRFMTY.js"><script src="polyfills-5CFQRCPP.js" type="module"></script><script src="main-T64RJFKQ.js" type="module"></script></body>
+</html>
+`;
