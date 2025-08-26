@@ -1,2 +1,0 @@
-import './polyfills.server.mjs';
-import{Sa as o,Ta as l,Wa as a,ya as i}from"./chunk-WIEVIWRW.mjs";import"./chunk-X2SEQXRR.mjs";var r=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=i({type:t,selectors:[["app-profile-detail"]],decls:2,vars:0,template:function(e,p){e&1&&(o(0,"p"),a(1,"profile-detail works!"),l())},encapsulation:2})};export{r as ProfileDetail};

@@ -1,2 +1,0 @@
-import './polyfills.server.mjs';
-import{Sa as n,Ta as s,Wa as o,ya as a}from"./chunk-WIEVIWRW.mjs";import"./chunk-X2SEQXRR.mjs";var c=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=a({type:t,selectors:[["app-chat"]],decls:2,vars:0,template:function(e,m){e&1&&(n(0,"p"),o(1,"chat works!"),s())},encapsulation:2})};export{c as Chat};
