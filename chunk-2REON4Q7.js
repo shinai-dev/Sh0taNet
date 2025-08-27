@@ -1,1 +1,0 @@
-import{Ba as a,Ta as n,Ua as s,Ya as o}from"./chunk-PVSACHB5.js";var c=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=a({type:t,selectors:[["app-chat"]],decls:2,vars:0,template:function(e,m){e&1&&(n(0,"p"),o(1,"chat works!"),s())},encapsulation:2})};export{c as Chat};

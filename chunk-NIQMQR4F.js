@@ -1,1 +1,0 @@
-import{Ba as s,Ta as o,Ua as i,Ya as n}from"./chunk-PVSACHB5.js";var p=class e{static \u0275fac=function(t){return new(t||e)};static \u0275cmp=s({type:e,selectors:[["app-post-list"]],decls:2,vars:0,template:function(t,l){t&1&&(o(0,"p"),n(1,"post-list works!"),i())},encapsulation:2})};export{p as PostList};
